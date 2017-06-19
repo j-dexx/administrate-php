@@ -1,0 +1,13 @@
+{
+    "name": "j-dexx/administrate",
+    "require-dev": {
+        "laravel/framework": "^5.4",
+        "phpunit/phpunit": "^6.1"
+    },
+    "require": {},
+    "autoload": {
+      "psr-4": {
+        "Jdexx\\Administrate\\": "src"
+      }
+    }
+}
